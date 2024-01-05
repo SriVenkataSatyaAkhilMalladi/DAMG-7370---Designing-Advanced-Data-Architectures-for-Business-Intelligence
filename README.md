@@ -80,4 +80,4 @@ BI Design and Development.
 ETL Processes.
 Data Modeling.
 PowerBI and Tableau Visualization.
-This breakdown provides a concise and technical overview of the course, highlighting key concepts and practical aspects covered throughout the sessions.
+
